@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks!
 
 My name is Jatin and I'm a iOS developer. I'm from India living in Japan.
 
