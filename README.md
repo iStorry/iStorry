@@ -1,28 +1,57 @@
-# Hello, folks!
+### Hello, folks!
 
-My name is Jatin and I'm a iOS developer. I'm from India living in Japan.
+- 🔭 I’m currently working as a iOS Developer in Japan.
+- 🌱 I’m currently learning Machine Learning.
+- 👨‍💻 I really enjoy automating / reverse engineering stuff.
+- 💬 Ask me about One Piece.
+- 😄 Pronouns: He / Him
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Vultr-informational?style=flat&logo=vultr&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/istorry/istorry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istorry&hide=java,html&title_color=000000&text_color=c9cacc&icon_color=2bbc8a" />
+### 📫 How to reach me:
+<a href="mailto:i6oz@icloud.com"> 
+<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="10%"/>
 </a>
-<br><br>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=istorry&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=c9cacc&icon_color=2bbc8a" alt="iStorry's GitHub Stats" />
-</a>
+
+### I'm a Swift fanboy, but i do some other stuff too 🔨
+
+<style>
+    #icon-wrapper {
+        display: block;
+    }
+    
+    #icon-wrapper img {
+        width: 60px
+    }
+</style>
+<div id="icon-wrapper">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+</div>
+
+
