@@ -52,4 +52,4 @@ I also tinker with AI tools locally — running LLMs via Ollama, building image 
 
 *Based in Nagoya, Japan.*
 
-If you have something interesting, reach out at **jatinx.lol@gmail.com**
+If you have something interesting, reach out at **i6oz@icloud.com**
